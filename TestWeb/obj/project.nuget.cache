@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LRpzKRlMDaFFbewSkaKKzBIAhIKU4RQq2i3ZWjHlAfXqIo12jD4WYEdu4bqSY4EgBsZ+Jedlc9KTYCbSZbup6A==",
+  "dgSpecHash": "Er7W2vt+IMyo/gcKegVQXaT94XiKhxlmRa5HkX4lu7VoU/fP5KFmlAzObe9K/u2YtmelJasOMFTBlGqihxSEMA==",
   "success": true,
-  "projectFilePath": "E:\\Project\\Test\\DotNet Core\\DotNetCoreWeb\\TestWeb\\TestWeb\\TestWeb.csproj",
+  "projectFilePath": "E:\\Project\\Test\\DotNet Core\\DotNetCoreWeb\\TestWeb\\TestWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BLT\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\BLT\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

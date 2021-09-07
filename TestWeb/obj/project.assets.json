@@ -11973,11 +11973,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\Test\\DotNet Core\\DotNetCoreWeb\\TestWeb\\TestWeb\\TestWeb.csproj",
+      "projectUniqueName": "E:\\Project\\Test\\DotNet Core\\DotNetCoreWeb\\TestWeb\\TestWeb.csproj",
       "projectName": "TestWeb",
-      "projectPath": "E:\\Project\\Test\\DotNet Core\\DotNetCoreWeb\\TestWeb\\TestWeb\\TestWeb.csproj",
+      "projectPath": "E:\\Project\\Test\\DotNet Core\\DotNetCoreWeb\\TestWeb\\TestWeb.csproj",
       "packagesPath": "C:\\Users\\BLT\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\Test\\DotNet Core\\DotNetCoreWeb\\TestWeb\\TestWeb\\obj\\",
+      "outputPath": "E:\\Project\\Test\\DotNet Core\\DotNetCoreWeb\\TestWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Software\\Develop\\DotNet\\Visual Studio\\Shared\\NuGetPackages"
