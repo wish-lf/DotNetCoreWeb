@@ -71,3 +71,4 @@ E:\Project\Test\DotNet Core\DotNetCoreWeb\TestWeb\obj\Debug\netcoreapp2.1\TestWe
 E:\Project\Test\DotNet Core\DotNetCoreWeb\TestWeb\obj\Debug\netcoreapp2.1\TestWeb.genruntimeconfig.cache
 E:\Project\Test\DotNet Core\DotNetCoreWeb\TestWeb\obj\Debug\netcoreapp2.1\TestWeb.csproj.CopyComplete
 E:\Project\Test\DotNet Core\DotNetCoreWeb\TestWeb\bin\Debug\netcoreapp2.1\Dockerfile
+E:\Project\Test\DotNet Core\DotNetCoreWeb\TestWeb\obj\Debug\netcoreapp2.1\TestWeb.csproj.AssemblyReference.cache
